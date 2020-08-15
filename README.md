@@ -11,7 +11,7 @@ Creates an animated visualization of one or more "path log", a file that records
 In [GWToolbox](www.gwtoolbox.com), enable "Save Location Data" in Settings > Toolbox Settings, then find them in `%user%/AppData/Local/GWToolboxpp/location logs`. 
 
 ## Example
-[[data/example.jpg]]
+![Example](data/example.jpg)
 
 https://www.youtube.com/watch?v=QQ0DAOc2fT0
 
